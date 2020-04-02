@@ -36,6 +36,9 @@ span.led_cligno {
 	color:#505050;
 	letter-spacing: 1px;
 	font-size:16px;
+	height:16px;
+	width: 100%;
+	font-weight: 700;
 }
 .widget-Linky_V4 div.fontUnite{
 	font-family: "Digital-7";
@@ -43,6 +46,7 @@ span.led_cligno {
 	color:#505050;
 	letter-spacing: 1px;
 	font-size:16px;
+	height:16px;
 	width:40%;
 	left:61%;
 	text-align:left;
